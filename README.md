@@ -17,7 +17,7 @@ This project demonstrates the principles of Infrastructure as Code (IaC)
    cd Centos-server-main
    vagrant up
    
-5. Access the assigned IP address of the virtual machine to see the FrontEndStore application in action.
+5. Access the assigned IP address of the virtual machine from the Vagrantfile to see the FrontEndStore application in action.
    ![image](https://github.com/Dvzr2k/Centos-server/assets/129244345/e0e293dc-5162-475f-bb9e-455b6bd87ac7)
 
 Enjoy developing!
